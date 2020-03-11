@@ -1,0 +1,1 @@
+My solutions for University of Washington's MOOC "Machine Learning Foundations: A Case Study Appraoach" taught by Prof. Carlos Guestrin and Prof. Emily Fox.
